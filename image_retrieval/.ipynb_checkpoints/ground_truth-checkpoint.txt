@@ -1,5 +1,3 @@
-#queryID imageID
-
 q1  1 
 q1  2 
 q1  3 
